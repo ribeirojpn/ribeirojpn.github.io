@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ribeirojpn.github.io/about/index.html</loc>
+    
+    <lastmod>2016-07-05T15:19:05.788Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://ribeirojpn.github.io/graphq/graphql-api-node/</loc>
     
     <lastmod>2016-07-05T14:09:58.684Z</lastmod>

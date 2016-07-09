@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ribeirojpn.github.io/"/>
-  <updated>2016-07-05T20:36:43.521Z</updated>
+  <updated>2016-07-09T00:55:20.458Z</updated>
   <id>http://ribeirojpn.github.io/</id>
   
   <author>
@@ -14,6 +14,44 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Weeklies and Podcasts</title>
+    <link href="http://ribeirojpn.github.io/uncategorized/weeklies-and-podcasts/"/>
+    <id>http://ribeirojpn.github.io/uncategorized/weeklies-and-podcasts/</id>
+    <published>2016-07-07T03:21:51.000Z</published>
+    <updated>2016-07-09T00:55:20.458Z</updated>
+    
+    <content type="html">&lt;p&gt;Weeklies e Podcasts são ótimos recursos para se manter atualizado sobre as novidades. Weeklies oferecem uma serie de noticias, artigos e tutoriais novos e muito uteis semanalmente. Já com os Podcasts você se atualiza, aprende e se descontrai ouvindo a discussões e entrevistas, enquanto realiza suas tarefas cotidianas.&lt;/p&gt;
+&lt;p&gt;Estes são os Podcasts e Weeklies que acompanho:&lt;/p&gt;
+&lt;h2 id=&quot;Podcasts&quot;&gt;&lt;a href=&quot;#Podcasts&quot; class=&quot;headerlink&quot; title=&quot;Podcasts&quot;&gt;&lt;/a&gt;Podcasts&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://zofe.com.br/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Zone Of Front-Enders&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://devnaestrada.com.br/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;DevNaEstrada&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.codenewbie.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CodeNewbie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://devchat.tv/js-jabber&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;JavaScript Jabber&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Saindo um pouco do “escopo” de desenvolvimento:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://jovemnerd.com.br/nerdcast/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;NerdCast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;Weeklies&quot;&gt;&lt;a href=&quot;#Weeklies&quot; class=&quot;headerlink&quot; title=&quot;Weeklies&quot;&gt;&lt;/a&gt;Weeklies&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://javascriptweekly.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;JavaScript Weekly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://nodeweekly.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Node Weekly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://weekly.udgwebdev.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;UdgWebDev Weekly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://braziljs.org/#weekly&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;BrasilJS Weekly&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Weeklies e Podcasts são ótimos recursos para se manter atualizado sobre as novidades. Weeklies oferecem uma serie de noticias, artigos e 
+    
+    </summary>
+    
+    
+      <category term="dicas" scheme="http://ribeirojpn.github.io/tags/dicas/"/>
+    
+  </entry>
   
   <entry>
     <title>Basico de uma API com GraphQL e Node.js</title>
@@ -185,7 +223,7 @@
     <link href="http://ribeirojpn.github.io/javascript/estudando-javascript/"/>
     <id>http://ribeirojpn.github.io/javascript/estudando-javascript/</id>
     <published>2015-08-17T21:13:12.000Z</published>
-    <updated>2016-07-06T17:11:08.224Z</updated>
+    <updated>2016-07-07T03:22:36.097Z</updated>
     
     <content type="html">&lt;p&gt;Em Maio, o canal &lt;a href=&quot;https://www.youtube.com/user/GoogleDevelopers&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google Developers&lt;/a&gt; publicou no Youtube uma &lt;a href=&quot;https://www.youtube.com/playlist?list=PLOU2XLYxmsIIQorIS8gagUiMau9S84vZV&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;serie de videos&lt;/a&gt; de um evento sobre Dart, o Dart Developer Summit 2015, entre os diversos videos sobre a nova linguagem de programação há um chamado “Moving from Node.js to Dart” que me chamou atenção, não pelo que mostrou sobre o Dart mas, pelo que mostrou sobre o Node.js que, até então, não conhecia. Enquanto pesquisava sobre o Node.js, me interessei absurdamente pelo desenvolvimento web, pelas possibilidades e em especial pela capacidade de desenvolver toda uma aplicação web usando apenas uma linguagem de programação.&lt;/p&gt;
 &lt;p&gt;Atualmente, tenho estudado bastante sobre Javascript e a full-stack MEAN(MongoDB, Express.js, AngularJS e Node.js). Vou citar aqui alguns locais onde busco informações, exercicios e algumas ferramentas que uso no meu dia-a-dia para desenvolver e estudar.&lt;/p&gt;
@@ -255,6 +293,8 @@
       <category term="javascript" scheme="http://ribeirojpn.github.io/tags/javascript/"/>
     
       <category term="learn" scheme="http://ribeirojpn.github.io/tags/learn/"/>
+    
+      <category term="dicas" scheme="http://ribeirojpn.github.io/tags/dicas/"/>
     
   </entry>
   
